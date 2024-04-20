@@ -1,0 +1,11 @@
+
+.idea/vcs.xml
+.idea/Project10.NLP.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/deployment.xml
+__pycache__/model.cpython-39.pyc
+weights/quora_BERT_finetuning.pth
+quora_BERT_finetuning.pth
